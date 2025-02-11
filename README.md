@@ -1,16 +1,20 @@
 # Practical 8 (Week 4) - Information Architecture
-You will conduct an analysis of the York Sport website in terms of its Information Architecture design. You should work in pairs or 3s, particularly for stage 2. 
+You will conduct an analysis of the York Sport website in terms of its Information Architecture. This practical is best completed in pairs or 3s, particularly for stage 2. 
+
 ## Exercise 1: Critical Analysis
 Open the York Sport website (https://www.york-sport.com/).
 
 From the home page, identify all the navigation menus for the site (there are multiple) and take note of the top-level headings and any subpages. We have cards / Post Its for you to use. Record one heading / subpage per card.
 
 Perform a critical analysis of the information architecture design of the site. Record your comments and reflections. We will discuss as a class about 30 minutes into the session.
+- It can help to imagine different personas e.g. someone new who wants to take a class, a regular user with a membership
+- What IA pattern has been used e.g. flat, polyhierarchy
+- Think critically: is information where your personas might expect it to be?
 
 Refer explicitly to the IA patterns and principles discussed in the lectures (e.g. LATCH). I also recommend reading the Principles of IA by Dan Brown, which you can find on the VLE under Week 4: Reading or at this link: https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/bult.2010.1720360609
 
 ## Exercise 2: Card Sort
-Working in pairs or groups of 3, perform an open card sort to come up with an improved navigation structure:
+Perform an open card sort (ideally in groups of 2 or 3) to come up with an improved navigation structure:
 1.	Group the cards into logical (to you) categories. Which cards naturally go together?
 2.	Give each group a heading.
 
