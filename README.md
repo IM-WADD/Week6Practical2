@@ -1,4 +1,4 @@
-# Practical 8 (Week 4) - Information Architecture
+# Week 6 Practical 2 - Information Architecture
 You will conduct an analysis of the York Sport website in terms of its Information Architecture. This practical is best completed in pairs or 3s, particularly for stage 2. 
 
 ## Exercise 1: Critical Analysis
