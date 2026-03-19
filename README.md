@@ -14,6 +14,8 @@ Perform a critical analysis of the information architecture design of the site. 
 Refer explicitly to the IA patterns and principles discussed in the lectures (e.g. LATCH). I also recommend reading the Principles of IA by Dan Brown, which you can find on the VLE under Week 4: Reading or at this link: https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/bult.2010.1720360609
 
 ## Exercise 2: Card Sort
+There will be packs of cards available from Abi during the session. If you are catching up after the fact, you will need to make your own.
+
 Perform an open card sort (ideally in groups of 2 or 3) to come up with an improved navigation structure:
 1.	Group the cards into logical (to you) categories. Which cards naturally go together?
 2.	Give each group a heading.
